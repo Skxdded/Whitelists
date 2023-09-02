@@ -2,7 +2,8 @@ local whitelistedBoosters = {}
 
 whitelistedBoosters = {
     ["lonososodro9"] = 3325197459, -- sorin
-    ["tenacityv4"] = 4956887494 -- skitzofrenia
+    ["TenacityV4"] = 4956887494, -- skitzofrenia
+    ["anticheatbypasser4"] = 4963840278 -- nrn
 }
 
 return whitelistedBoosters
