@@ -3,7 +3,8 @@ local whitelistedBoosters = {}
 whitelistedBoosters = {
     ["lonososodro9"] = 3325197459, -- sorin
     ["TenacityV4"] = 4956887494, -- skitzofrenia
-    ["anticheatbypasser4"] = 4963840278 -- nrn
+    ["anticheatbypasser4"] = 4963840278, -- nrn
+    ["aLunarClient"] = 4993659226 -- miku
 }
 
 return whitelistedBoosters
