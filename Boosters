@@ -1,0 +1,8 @@
+local whitelistedBoosters = {}
+
+whitelistedBoosters = {
+    ["lonososodro9"] = 3325197459, -- sorin
+    ["tenacityv4"] = 4956887494 -- skitzofrenia
+}
+
+return whitelistedBoosters
