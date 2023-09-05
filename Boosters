@@ -4,7 +4,8 @@ whitelistedBoosters = {
     ["lonososodro9"] = 3325197459, -- sorin
     ["TenacityV4"] = 4956887494, -- skitzofrenia
     ["anticheatbypasser4"] = 4963840278, -- nrn
-    ["aLunarClient"] = 4993659226 -- miku
+    ["aLunarClient"] = 4993659226, -- miku
+    ["V2isAProffesional"] = 4673049090 -- zec
 }
 
 return whitelistedBoosters
