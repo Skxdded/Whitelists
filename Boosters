@@ -2,7 +2,6 @@ local whitelistedBoosters = {}
 
 whitelistedBoosters = {
     ["lonososdro10"] = 3552023363, -- sorin
-    ["TenacityV4"] = 4956887494, -- skitzofrenia
     ["aLunarClient"] = 4993659226, -- miku
     ["V2isAProffesional"] = 4673049090, -- zec
     ["Zynaste"] = 2209751854 -- inhabit
