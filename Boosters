@@ -4,7 +4,8 @@ whitelistedBoosters = {
     ["lonososdro10"] = 3552023363, -- sorin
     ["aLunarClient"] = 4993659226, -- miku
     ["V2isAProffesional"] = 4673049090, -- zec
-    ["Zynaste"] = 2209751854 -- inhabit
+    ["Zynaste"] = 2209751854, -- inhabit
+    ["lunarcfgs"] = 5048653054 -- geeked
 }
 
 return whitelistedBoosters
