@@ -1,11 +1,11 @@
 local whitelistedBoosters = {}
 
 whitelistedBoosters = {
-    ["lonososdro10"] = 3552023363, -- sorin
     ["aLunarClient"] = 4993659226, -- miku
     ["V2isAProffesional"] = 4673049090, -- zec
     ["Zynaste"] = 2209751854, -- inhabit
-    ["lunarcfgs"] = 5048653054 -- geeked
+    ["lunarcfgs"] = 5048653054, -- geeked
+    ["ERUINK_0125"] = 5055877124 -- aureus
 }
 
 return whitelistedBoosters
