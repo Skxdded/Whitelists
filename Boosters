@@ -5,7 +5,8 @@ whitelistedBoosters = {
     ["V2isAProffesional"] = 4673049090, -- zec
     ["Zynaste"] = 2209751854, -- inhabit
     ["ERUINK_0126"] = 5061182527, -- aureus
-    ["WalterWhitesAss5"] = 5091066647 -- sutnax
+    ["WalterWhitesAss1"] = 5094527058, -- sutnax
+    ["Casual_Ryoma"] = 5049603219 -- casual ryoma
 }
 
 return whitelistedBoosters
