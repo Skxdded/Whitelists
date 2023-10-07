@@ -6,7 +6,8 @@ whitelistedBoosters = {
     ["Zynaste"] = 2209751854, -- inhabit
     ["ERUINK_0126"] = 5061182527, -- aureus
     ["WalterWhitesAss1"] = 5094527058, -- sutnax
-    ["Casual_Ryoma"] = 5049603219 -- casual ryoma
+    ["Casual_Ryoma"] = 5049603219, -- casual ryoma
+    ["skilis_9"] = 5099473161 -- funny exploiter
 }
 
 return whitelistedBoosters
