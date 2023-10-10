@@ -8,7 +8,8 @@ whitelistedBoosters = {
     ["Casual_Ryoma"] = 5049603219, -- casual ryoma
     ["skilis_9"] = 5099473161, -- funny exploiter
     ["AuwhAuwhAuwh"] = 5094468894, -- shortly editz
-    ["snoopyontop11112"] = 5057797886 -- sxpremee
+    ["snoopyontop11112"] = 5057797886, -- sxpremee
+    ["AIeenaWillYouMarryMe"] = 5064714950 -- katagiri / face.book
 }
 
 return whitelistedBoosters
