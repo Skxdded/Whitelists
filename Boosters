@@ -8,7 +8,8 @@ whitelistedBoosters = {
     ["skilis_9"] = 5099473161, -- funny exploiter
     ["snoopyontop11112"] = 5057797886, -- sxpremee
     ["AIeenaWillYouMarryMe"] = 5064714950, -- katagiri
-    ["lookiam_herehalo1"] = 766734015 -- lextra
+    ["lookiam_herehalo1"] = 766734015, -- lextra
+    ["cryptabsesbedwarsac"] = 5114819840 -- crypt
 }
 
 return whitelistedBoosters
