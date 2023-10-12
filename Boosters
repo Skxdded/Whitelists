@@ -11,7 +11,8 @@ whitelistedBoosters = {
     ["lookiam_herehalo1"] = 766734015, -- lextra
     ["cryptabsesbedwarsac"] = 5114819840, -- crypt
     ["ihavenofriends7387"] = 5108700289, -- chemsitoo
-    ["K5RKP4OH1LAW"] = 241800198 -- pygen
+    ["K5RKP4OH1LAW"] = 241800198, -- pygen
+    ["imonstrike99"] = 5028612554 -- koya
 }
 
 return whitelistedBoosters
