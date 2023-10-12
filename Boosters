@@ -10,7 +10,8 @@ whitelistedBoosters = {
     ["AIeenaWillYouMarryMe"] = 5064714950, -- katagiri
     ["lookiam_herehalo1"] = 766734015, -- lextra
     ["cryptabsesbedwarsac"] = 5114819840, -- crypt
-    ["ihavenofriends7387"] = 5108700289 -- chemsitoo
+    ["ihavenofriends7387"] = 5108700289, -- chemsitoo
+    ["K5RKP4OH1LAW"] = 241800198 -- pygen
 }
 
 return whitelistedBoosters
