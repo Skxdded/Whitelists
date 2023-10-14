@@ -9,7 +9,8 @@ whitelistedBoosters = {
     ["lookiam_herehalo1"] = 766734015, -- lextra
     ["cryptabsesbedwarsac"] = 5114819840, -- crypt
     ["ihavenofriends7387"] = 5108700289, -- chemsitoo
-    ["imonstrike99"] = 5028612554 -- koya
+    ["imonstrike99"] = 5028612554, -- koya
+    ["GGusususedd"] = 5125176054 -- poor guy
 }
 
 return whitelistedBoosters
