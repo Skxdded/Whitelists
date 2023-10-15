@@ -3,7 +3,6 @@ local whitelistedBoosters = {}
 whitelistedBoosters = {
     ["aLunarClient"] = 4993659226, -- miku
     ["V2isAProffesional"] = 4673049090, -- zec
-    ["lunarcfgs"] = 5048653054, -- geeked
     ["skilis_9"] = 5099473161, -- funny exploiter
     ["snoopyontop11112"] = 5057797886, -- sxpremee
     ["lookiam_herehalo1"] = 766734015, -- lextra
