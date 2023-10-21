@@ -1,7 +1,7 @@
 local whitelisted = {}
 
 whitelisted = {
-    ["Skxdded1"] = 5142191155
+    ["LunarOwnsU"] = 5148087814
 }
 
 return whitelisted
