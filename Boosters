@@ -10,7 +10,8 @@ whitelistedBoosters = {
     ["MythicalLegendaryV1"] = 4759346170, -- sho.boku
     ["trapanese911"] = 5097498755, -- bonzi buddy
     ["CarkedTM"] = 5137386987, -- crackedtm / unknown
-    ["lunarcfgs"] = 5048653054 -- geeked
+    ["lunarcfgs"] = 5048653054, -- geeked
+    ["imaginelosingtomeXD1"] = 2952432617 -- rice
 }
 
 return whitelistedBoosters
