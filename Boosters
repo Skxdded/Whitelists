@@ -1,15 +1,11 @@
-local whitelistedBoosters = {}
+    local whitelistedBoosters = {}
 
 whitelistedBoosters = {
     ["aLunarClient"] = 4993659226, -- miku
-    ["V2isAProffesional"] = 4673049090, -- zec
     ["7granddadpgnvxpes"] = 5153830697, -- funny exploiter
-    ["lookiam_herehalo1"] = 766734015, -- lextra
     ["hicsahihdc"] = 5139327919, -- poor guy
     ["trapanese911"] = 5097498755, -- bonzi buddy
-    ["CarkedTM"] = 5137386987, -- crackedtm / unknown
-    ["lunarcfgs"] = 5048653054, -- geeked
-    ["imaginelosingtomeXD1"] = 2952432617 -- rice
+    ["lunarcfgs"] = 5048653054 -- geeked
 }
 
 return whitelistedBoosters
