@@ -5,7 +5,11 @@ whitelistedBoosters = {
     ["7granddadpgnvxpes"] = 5153830697, -- funny exploiter
     ["hicsahihdc"] = 5139327919, -- poor guy
     ["trapanese911"] = 5097498755, -- bonzi buddy
-    ["lunarcfgs"] = 5048653054 -- geeked
+    ["lunarcfgs"] = 5048653054, -- geeked
+    ["Day1Top1"] = 5186070836, -- sytro / rice farmer
+    ["educator3332"] = 5035481941, -- aureus
+    ["fhdhdhdhxjd3"] = 5136064505, -- clutch jr / madz
+    ["MoonCooperations"] = 4976440366 -- oidlers
 }
 
 return whitelistedBoosters
