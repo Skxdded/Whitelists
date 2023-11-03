@@ -1,4 +1,4 @@
-    local whitelistedBoosters = {}
+local whitelistedBoosters = {}
 
 whitelistedBoosters = {
     ["aLunarClient"] = 4993659226, -- miku
